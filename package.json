@@ -1,0 +1,17 @@
+{
+  "name": "auditingai-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain-based Auditing AI system",
+  "scripts": {
+    "migrate": "truffle migrate --reset",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "truffle": "^5.5.0",
+    "uws": "^200.0.0",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}

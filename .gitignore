@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Flask
+instance/
+.env
+*.log
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Blockchain
+blockchain/build/
+blockchain/.env
+blockchain/.secret
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Other
+*.bak
+*.swp
+*.tmp
+*.log
+*.csv
+*.pkl
+
